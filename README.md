@@ -1,2 +1,2 @@
 # troop
-Description
+Description is updated in development.
